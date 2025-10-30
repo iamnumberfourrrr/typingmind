@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "http-server ./src/ -p 9999"
+    "start": "http-server ./src/ -p 80"
   },
   "name": "typingmind",
   "version": "1.0.0",
